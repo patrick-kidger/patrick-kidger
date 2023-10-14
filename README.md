@@ -10,6 +10,8 @@ Probably the reason you're here. I would highlight:
 
 4. [**Lineax**](https://github.com/google/lineax): linear/least-squares solvers. [![GitHub Repo stars](https://img.shields.io/github/stars/google/lineax?style=social)](https://github.com/google/lineax) **(new!)**
 
+5. [**Optimistix**](https://github.com/patrick-kidger/optimistix): root finding, least squares, etc. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/optimistix?style=social)](https://github.com/patrick-kidger/optimistix) **(new!)**
+
 **Other links:**
 
 - Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/PatrickKidger?style=social)](https://twitter.com/PatrickKidger)
@@ -17,4 +19,4 @@ Probably the reason you're here. I would highlight:
 - Personal website: [kidger.site](https://kidger.site)
 - Neural ODE/SDE textbook: [arXiv/2202.02435](https://arxiv.org/abs/2202.02435)
 
-**Me:** currently a mathematician at Google X. Recently graduated PhD from Oxford Mathematics; The Alan Turing Institute.
+**Me:** currently doing bioML at Google X. Previously PhD in mathematics from Oxford + The Alan Turing Institute, on neural ODEs/SDEs/CDEs.
