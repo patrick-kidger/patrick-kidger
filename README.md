@@ -19,4 +19,8 @@ Probably the reason you're here. I would highlight:
 - Personal website: [kidger.site](https://kidger.site)
 - Neural ODE/SDE textbook: [arXiv/2202.02435](https://arxiv.org/abs/2202.02435)
 
-**Me:** currently doing bioML at Google X. Previously PhD in mathematics from Oxford + The Alan Turing Institute, on neural ODEs/SDEs/CDEs.
+**Me:**
+
+I currently wear multiple hats across bio/ML/CS at Cradle.bio. These days I am generally interested in scientific ML, and specifically the application of ML to unsolved problems in biology!
+
+I also hold an honorary lectureship at Imperial College London. In past lives I previously wore the same multitude of hats at Google X, and did my PhD at the University of Oxford.
