@@ -8,9 +8,9 @@ Probably the reason you're here. I would highlight:
 
 3. [**jaxtyping**](https://github.com/google/jaxtyping): shape/dtype annotations for arrays. [![GitHub Repo stars](https://img.shields.io/github/stars/google/jaxtyping?style=social)](https://github.com/google/jaxtyping)
 
-4. [**Lineax**](https://github.com/google/lineax): linear/least-squares solvers. [![GitHub Repo stars](https://img.shields.io/github/stars/google/lineax?style=social)](https://github.com/google/lineax) **(new!)**
+4. [**Lineax**](https://github.com/google/lineax): linear/least-squares solvers. [![GitHub Repo stars](https://img.shields.io/github/stars/google/lineax?style=social)](https://github.com/google/lineax)
 
-5. [**Optimistix**](https://github.com/patrick-kidger/optimistix): root finding, least squares, etc. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/optimistix?style=social)](https://github.com/patrick-kidger/optimistix) **(new!)**
+5. [**Optimistix**](https://github.com/patrick-kidger/optimistix): root finding, least squares, etc. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/optimistix?style=social)](https://github.com/patrick-kidger/optimistix)
 
 **Other links:**
 
