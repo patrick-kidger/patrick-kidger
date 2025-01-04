@@ -12,9 +12,12 @@ Probably the reason you're here. I would highlight:
 
 5. [**Optimistix**](https://github.com/patrick-kidger/optimistix): root finding, least squares, etc. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/optimistix?style=social)](https://github.com/patrick-kidger/optimistix)
 
+6. [**sympy2jax**](https://github.com/patrick-kidger/sympy2jax): optimise your symbolic expressions via gradient descent! [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/sympy2jax?style=social)](https://github.com/patrick-kidger/sympy2jax)
+
 **Other links:**
 
 - Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/PatrickKidger?style=social)](https://twitter.com/PatrickKidger)
+- Bluesky: [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20me%20on&color=0285FF)](https://bsky.app/profile/PatrickKidger)
 - Google scholar: [here](https://scholar.google.co.uk/citations?user=5cCLsNQAAAAJ)
 - Personal website: [kidger.site](https://kidger.site)
 - Neural ODE/SDE textbook: [arXiv/2202.02435](https://arxiv.org/abs/2202.02435)
