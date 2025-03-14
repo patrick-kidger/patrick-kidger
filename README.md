@@ -31,6 +31,12 @@ I've written a *lot* of numerical JAX and PyTorch, now used in diverse applicati
 
 10. [**typst_pyimage**](https://github.com/patrick-kidger/typst_pyimage): A Typst extension adding support for generating figures using inline Python code. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typst_pyimage?style=social)](https://github.com/patrick-kidger/typst_pyimage)
 
+11. [**mkdocs_ipynb**](https://github.com/patrick-kidger/mkdocs_ipynb/): Use `*.ipynb` files (Jupyter notebooks) when building documentation with MkDocs.
+
+12. [**mkdocs_include_exclude_files**](https://github.com/patrick-kidger/mkdocs_include_exclude_files/): Include or exclude specific files when building documentation with MkDocs.
+
+13. [**action_update_python_project**](https://github.com/patrick-kidger/action_update_python_project/): GitHub CI/CD to automatically deploy Python projects to PyPI and GitHub when a version is bumped.
+
 </details>
 
 ### Me:
