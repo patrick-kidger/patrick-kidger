@@ -23,19 +23,21 @@ I've written a *lot* of numerical JAX and PyTorch, now used in diverse applicati
 
 ### Python
 
-9. [**Wadler-Lindig**](https://github.com/patrick-kidger/wadler_lindig): A better Python pretty-printer, based upon the theory of Wadler and Lindig. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/wadler_lindig?style=social)](https://github.com/patrick-kidger/wadler_lindig)
+9. [**patdb**](https://github.com/patrick-kidger/patdb): A fast, pretty, TUI/REPL Python debugger. Includes syntax highlighting, support for re-raised and grouped exceptions, and is robust to asyncio/threading/multiprocessing. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/patdb?style=social)](https://github.com/patrick-kidger/patdb)
+
+10. [**Wadler-Lindig**](https://github.com/patrick-kidger/wadler_lindig): A better Python pretty-printer, based upon the theory of Wadler and Lindig. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/wadler_lindig?style=social)](https://github.com/patrick-kidger/wadler_lindig)
 
 ### Publishing
 
-10. [**MkPosters**](https://github.com/patrick-kidger/mkposters): Write academic posters in Markdown, style them with CSS, save them to PDF. No wrestling with LaTeX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkposters?style=social)](https://github.com/patrick-kidger/mkposters)
+11. [**MkPosters**](https://github.com/patrick-kidger/mkposters): Write academic posters in Markdown, style them with CSS, save them to PDF. No wrestling with LaTeX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkposters?style=social)](https://github.com/patrick-kidger/mkposters)
 
-11. [**typst_pyimage**](https://github.com/patrick-kidger/typst_pyimage): A Typst extension adding support for generating figures using inline Python code. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typst_pyimage?style=social)](https://github.com/patrick-kidger/typst_pyimage)
+12. [**typst_pyimage**](https://github.com/patrick-kidger/typst_pyimage): A Typst extension adding support for generating figures using inline Python code. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typst_pyimage?style=social)](https://github.com/patrick-kidger/typst_pyimage)
 
-12. [**mkdocs_ipynb**](https://github.com/patrick-kidger/mkdocs_ipynb/): Use `*.ipynb` files (Jupyter notebooks) when building documentation with MkDocs.
+13. [**mkdocs_ipynb**](https://github.com/patrick-kidger/mkdocs_ipynb/): Use `*.ipynb` files (Jupyter notebooks) when building documentation with MkDocs.
 
-13. [**mkdocs_include_exclude_files**](https://github.com/patrick-kidger/mkdocs_include_exclude_files/): Include or exclude specific files when building documentation with MkDocs.
+14. [**mkdocs_include_exclude_files**](https://github.com/patrick-kidger/mkdocs_include_exclude_files/): Include or exclude specific files when building documentation with MkDocs.
 
-14. [**action_update_python_project**](https://github.com/patrick-kidger/action_update_python_project/): GitHub CI/CD to automatically deploy Python projects to PyPI and GitHub when a version is bumped.
+15. [**action_update_python_project**](https://github.com/patrick-kidger/action_update_python_project/): GitHub CI/CD to automatically deploy Python projects to PyPI and GitHub when a version is bumped.
 
 </details>
 
