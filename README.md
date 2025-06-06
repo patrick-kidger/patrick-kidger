@@ -7,7 +7,7 @@ I've written a *lot* of numerical JAX and PyTorch, now used in diverse applicati
 3. [**jaxtyping**](https://github.com/patrick-kidger/jaxtyping): shape/dtype annotations for arrays. (Also supports PyTorch etc, despite the name!) [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/jaxtyping?style=social)](https://github.com/patrick-kidger/jaxtyping)
 
 <details>
-<summary>A full list of other libraries</summary>
+<summary><h4>A full list of other libraries (click to expand)</h4></summary>
 
 ### JAX
 
