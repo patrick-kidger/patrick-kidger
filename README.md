@@ -27,17 +27,19 @@ I've written a *lot* of numerical JAX and PyTorch, now used in diverse applicati
 
 10. [**Wadler-Lindig**](https://github.com/patrick-kidger/wadler_lindig): A better Python pretty-printer, based upon the theory of Wadler and Lindig. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/wadler_lindig?style=social)](https://github.com/patrick-kidger/wadler_lindig)
 
+11. [**tinyio**](https://github.com/patrick-kidger/tinyio): Ever used asyncio and wished you hadn't? A tiny (~200 lines) event loop for Python. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/tinyio?style=social)](https://github.com/patrick-kidger/tinyio)
+
 ### Publishing
 
-11. [**MkPosters**](https://github.com/patrick-kidger/mkposters): Write academic posters in Markdown, style them with CSS, save them to PDF. No wrestling with LaTeX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkposters?style=social)](https://github.com/patrick-kidger/mkposters)
+12. [**MkPosters**](https://github.com/patrick-kidger/mkposters): Write academic posters in Markdown, style them with CSS, save them to PDF. No wrestling with LaTeX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkposters?style=social)](https://github.com/patrick-kidger/mkposters)
 
-12. [**typst_pyimage**](https://github.com/patrick-kidger/typst_pyimage): A Typst extension adding support for generating figures using inline Python code. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typst_pyimage?style=social)](https://github.com/patrick-kidger/typst_pyimage)
+13. [**typst_pyimage**](https://github.com/patrick-kidger/typst_pyimage): A Typst extension adding support for generating figures using inline Python code. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typst_pyimage?style=social)](https://github.com/patrick-kidger/typst_pyimage)
 
-13. [**mkdocs_ipynb**](https://github.com/patrick-kidger/mkdocs_ipynb/): Use `*.ipynb` files (Jupyter notebooks) when building documentation with MkDocs.
+14. [**mkdocs_ipynb**](https://github.com/patrick-kidger/mkdocs_ipynb/): Use `*.ipynb` files (Jupyter notebooks) when building documentation with MkDocs.
 
-14. [**mkdocs_include_exclude_files**](https://github.com/patrick-kidger/mkdocs_include_exclude_files/): Include or exclude specific files when building documentation with MkDocs.
+15. [**mkdocs_include_exclude_files**](https://github.com/patrick-kidger/mkdocs_include_exclude_files/): Include or exclude specific files when building documentation with MkDocs.
 
-15. [**action_update_python_project**](https://github.com/patrick-kidger/action_update_python_project/): GitHub CI/CD to automatically deploy Python projects to PyPI and GitHub when a version is bumped.
+16. [**action_update_python_project**](https://github.com/patrick-kidger/action_update_python_project/): GitHub CI/CD to automatically deploy Python projects to PyPI and GitHub when a version is bumped.
 
 </details>
 
