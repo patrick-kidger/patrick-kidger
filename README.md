@@ -6,42 +6,51 @@ I've written a *lot* of numerical JAX and PyTorch, now used in diverse applicati
 
 3. [**jaxtyping**](https://github.com/patrick-kidger/jaxtyping): shape/dtype annotations for arrays. (Also supports PyTorch etc, despite the name!) [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/jaxtyping?style=social)](https://github.com/patrick-kidger/jaxtyping)
 
-<details>
-<summary><h4>A full list of other libraries (click to expand)</h4></summary>
+> [!TIP]
+> <details><summary><i>Click to expand:</i> a full list of other libraries for JAX / Python / publishing / etc.</summary>
+> 
+> ### JAX
+> 
+> 4. [**Lineax**](https://github.com/patrick-kidger/lineax): linear/least-squares solvers. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/lineax?style=social)](https://github.com/patrick-kidger/lineax)
+> 
+> 5. [**Optimistix**](https://github.com/patrick-kidger/optimistix): root finding, least squares, etc. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/optimistix?style=social)](https://github.com/patrick-kidger/optimistix)
+> 
+> 6. [**sympy2jax**](https://github.com/patrick-kidger/sympy2jax): optimise your symbolic expressions via gradient descent! [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/sympy2jax?style=social)](https://github.com/patrick-kidger/sympy2jax)
+> 
+> 7. [**Quax**](https://github.com/patrick-kidger/quax): multiple dispatch in JAX! [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/quax?style=social)](https://github.com/patrick-kidger/quax)
+> 
+> 8. [**ESM2quinox**](https://github.com/patrick-kidger/esm2quinox): ESM2 implemented in JAX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/esm2quinox?style=social)](https://github.com/patrick-kidger/esm2quinox)
+> 
+> ### Python
+> 
+> 9. [**tinyio**](https://github.com/patrick-kidger/tinyio): Ever used asyncio and wished you hadn't? A tiny (~300 lines) event loop for Python. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/tinyio?style=social)](https://github.com/patrick-kidger/tinyio)
+> 
+> 10. [**patdb**](https://github.com/patrick-kidger/patdb): A fast, pretty, TUI/REPL Python debugger. Includes syntax highlighting, support for re-raised and grouped exceptions, and is robust to asyncio/threading/multiprocessing. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/patdb?style=social)](https://github.com/patrick-kidger/patdb)
+> 
+> 11. [**Wadler-Lindig**](https://github.com/patrick-kidger/wadler_lindig): A better Python pretty-printer, based upon the theory of Wadler and Lindig. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/wadler_lindig?style=social)](https://github.com/patrick-kidger/wadler_lindig)
+> 
+> 12. [**action_update_python_project**](https://github.com/patrick-kidger/action_update_python_project/): GitHub CI/CD to automatically deploy Python projects to PyPI and GitHub when a version is bumped.[![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/action_update_python_project?style=social)](https://github.com/patrick-kidger/action_update_python_project)
+> 
+> ### Typst
+> 
+> 13. [**typst_pyimage**](https://github.com/patrick-kidger/typst_pyimage): A Typst extension adding support for generating figures using inline Python code. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typst_pyimage?style=social)](https://github.com/patrick-kidger/typst_pyimage)
+> 
+> 14. [**typsy**](https://github.com/patrick-kidger/typsy): Classes/structs, pattern matching, safe counters... and more! Your one-stop library for programming tools not already in core Typst. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typsy?style=social)](https://github.com/patrick-kidger/typsy)
+> 
+> ### MkDocs
+> 
+> 15. [**MkPosters**](https://github.com/patrick-kidger/mkposters): Write academic posters in Markdown, style them with CSS, save them to PDF. No wrestling with LaTeX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkposters?style=social)](https://github.com/patrick-kidger/mkposters)
+> 
+> 16. [**mkdocs_ipynb**](https://github.com/patrick-kidger/mkdocs_ipynb/): Use `*.ipynb` files (Jupyter notebooks) when building documentation with MkDocs. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkdocs_ipynb?style=social)](https://github.com/patrick-kidger/mkdocs_ipynb)
+> 
+> 17. [**mkdocs_include_exclude_files**](https://github.com/patrick-kidger/mkdocs_include_exclude_files/): Include or exclude specific files when building documentation with MkDocs. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkdocs_include_exclude_files?style=social)](https://github.com/patrick-kidger/mkdocs_include_exclude_files)
+> 
+> ### Julia
+> 
+> 18. [FromFile.jl](https://github.com/Roger-luo/FromFile.jl): An improved import+include system for Julia. Makes your files self-contained and easier to understand. [![GitHub Repo stars](https://img.shields.io/github/stars/Roger-luo/FromFile.jl?style=social)](https://github.com/Roger-luo/FromFile.jl)
+> 
+> </details>
 
-### JAX
-
-4. [**Lineax**](https://github.com/patrick-kidger/lineax): linear/least-squares solvers. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/lineax?style=social)](https://github.com/patrick-kidger/lineax)
-
-5. [**Optimistix**](https://github.com/patrick-kidger/optimistix): root finding, least squares, etc. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/optimistix?style=social)](https://github.com/patrick-kidger/optimistix)
-
-6. [**sympy2jax**](https://github.com/patrick-kidger/sympy2jax): optimise your symbolic expressions via gradient descent! [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/sympy2jax?style=social)](https://github.com/patrick-kidger/sympy2jax)
-
-7. [**Quax**](https://github.com/patrick-kidger/quax): multiple dispatch in JAX! [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/quax?style=social)](https://github.com/patrick-kidger/quax)
-
-8. [**ESM2quinox**](https://github.com/patrick-kidger/esm2quinox): ESM2 implemented in JAX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/esm2quinox?style=social)](https://github.com/patrick-kidger/esm2quinox) *new!*
-
-### Python
-
-9. [**patdb**](https://github.com/patrick-kidger/patdb): A fast, pretty, TUI/REPL Python debugger. Includes syntax highlighting, support for re-raised and grouped exceptions, and is robust to asyncio/threading/multiprocessing. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/patdb?style=social)](https://github.com/patrick-kidger/patdb)
-
-10. [**Wadler-Lindig**](https://github.com/patrick-kidger/wadler_lindig): A better Python pretty-printer, based upon the theory of Wadler and Lindig. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/wadler_lindig?style=social)](https://github.com/patrick-kidger/wadler_lindig)
-
-11. [**tinyio**](https://github.com/patrick-kidger/tinyio): Ever used asyncio and wished you hadn't? A tiny (~200 lines) event loop for Python. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/tinyio?style=social)](https://github.com/patrick-kidger/tinyio)
-
-### Publishing
-
-12. [**MkPosters**](https://github.com/patrick-kidger/mkposters): Write academic posters in Markdown, style them with CSS, save them to PDF. No wrestling with LaTeX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkposters?style=social)](https://github.com/patrick-kidger/mkposters)
-
-13. [**typst_pyimage**](https://github.com/patrick-kidger/typst_pyimage): A Typst extension adding support for generating figures using inline Python code. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typst_pyimage?style=social)](https://github.com/patrick-kidger/typst_pyimage)
-
-14. [**mkdocs_ipynb**](https://github.com/patrick-kidger/mkdocs_ipynb/): Use `*.ipynb` files (Jupyter notebooks) when building documentation with MkDocs.
-
-15. [**mkdocs_include_exclude_files**](https://github.com/patrick-kidger/mkdocs_include_exclude_files/): Include or exclude specific files when building documentation with MkDocs.
-
-16. [**action_update_python_project**](https://github.com/patrick-kidger/action_update_python_project/): GitHub CI/CD to automatically deploy Python projects to PyPI and GitHub when a version is bumped.
-
-</details>
 
 ### Me:
 
