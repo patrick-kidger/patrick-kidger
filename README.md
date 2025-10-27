@@ -1,4 +1,4 @@
-I've written a *lot* of numerical JAX and PyTorch, now used in diverse applications across science (simulation of black holes, soil moisture, ...) and ML (large language models, large protein models, ...). I would particularly highlight:
+I've written a *lot* of numerical JAX and PyTorch, now used in diverse applications across ML (large protein models, large language models, ...) and science (simulation of black holes, soil moisture, ...). I would particularly highlight:
 
 1. [**Equinox**](https://github.com/patrick-kidger/equinox): elegant neural networks. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/equinox?style=social)](https://github.com/patrick-kidger/equinox)
     
