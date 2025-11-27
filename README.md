@@ -33,21 +33,23 @@ I've written a *lot* of numerical JAX and PyTorch, now used in diverse applicati
 > 
 > ### Typst
 > 
-> 13. [**typst_pyimage**](https://github.com/patrick-kidger/typst_pyimage): A Typst extension adding support for generating figures using inline Python code. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typst_pyimage?style=social)](https://github.com/patrick-kidger/typst_pyimage)
+> 13. [**typst-pyimage**](https://github.com/patrick-kidger/typst_pyimage): A Typst extension adding support for generating figures using inline Python code. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typst_pyimage?style=social)](https://github.com/patrick-kidger/typst_pyimage)
+>
+> 14. [**typst-marimo**](https://github.com/patrick-kidger/typst_marimo): Typst extension, adding support for generating figures and processing values using a companion Marimo notebook. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typst_marimo?style=social)](https://github.com/patrick-kidger/typst_marimo)
 > 
-> 14. [**typsy**](https://github.com/patrick-kidger/typsy): Classes/structs, pattern matching, safe counters... and more! Your one-stop library for programming tools not already in core Typst. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typsy?style=social)](https://github.com/patrick-kidger/typsy)
+> 15. [**typsy**](https://github.com/patrick-kidger/typsy): Classes/structs, pattern matching, safe counters... and more! Your one-stop library for programming tools not already in core Typst. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/typsy?style=social)](https://github.com/patrick-kidger/typsy)
 > 
 > ### MkDocs
 > 
-> 15. [**MkPosters**](https://github.com/patrick-kidger/mkposters): Write academic posters in Markdown, style them with CSS, save them to PDF. No wrestling with LaTeX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkposters?style=social)](https://github.com/patrick-kidger/mkposters)
+> 16. [**MkPosters**](https://github.com/patrick-kidger/mkposters): Write academic posters in Markdown, style them with CSS, save them to PDF. No wrestling with LaTeX. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkposters?style=social)](https://github.com/patrick-kidger/mkposters)
 > 
-> 16. [**mkdocs_ipynb**](https://github.com/patrick-kidger/mkdocs_ipynb/): Use `*.ipynb` files (Jupyter notebooks) when building documentation with MkDocs. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkdocs_ipynb?style=social)](https://github.com/patrick-kidger/mkdocs_ipynb)
+> 17. [**mkdocs_ipynb**](https://github.com/patrick-kidger/mkdocs_ipynb/): Use `*.ipynb` files (Jupyter notebooks) when building documentation with MkDocs. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkdocs_ipynb?style=social)](https://github.com/patrick-kidger/mkdocs_ipynb)
 > 
-> 17. [**mkdocs_include_exclude_files**](https://github.com/patrick-kidger/mkdocs_include_exclude_files/): Include or exclude specific files when building documentation with MkDocs. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkdocs_include_exclude_files?style=social)](https://github.com/patrick-kidger/mkdocs_include_exclude_files)
+> 18. [**mkdocs_include_exclude_files**](https://github.com/patrick-kidger/mkdocs_include_exclude_files/): Include or exclude specific files when building documentation with MkDocs. [![GitHub Repo stars](https://img.shields.io/github/stars/patrick-kidger/mkdocs_include_exclude_files?style=social)](https://github.com/patrick-kidger/mkdocs_include_exclude_files)
 > 
 > ### Julia
 > 
-> 18. [FromFile.jl](https://github.com/Roger-luo/FromFile.jl): An improved import+include system for Julia. Makes your files self-contained and easier to understand. [![GitHub Repo stars](https://img.shields.io/github/stars/Roger-luo/FromFile.jl?style=social)](https://github.com/Roger-luo/FromFile.jl)
+> 19. [FromFile.jl](https://github.com/Roger-luo/FromFile.jl): An improved import+include system for Julia. Makes your files self-contained and easier to understand. [![GitHub Repo stars](https://img.shields.io/github/stars/Roger-luo/FromFile.jl?style=social)](https://github.com/Roger-luo/FromFile.jl)
 > 
 > </details>
 
